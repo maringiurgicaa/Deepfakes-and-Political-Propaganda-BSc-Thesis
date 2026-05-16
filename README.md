@@ -43,6 +43,7 @@ The image dataset cannot be released publicly due to Facebook's Terms of Service
 ├── Clean_Outputs.py            # Parse, normalise, and flag UNPARSED rows
 ├── Thesis_Analysis.py          # Analysis and plotting scripts used in the thesis
 ├── Analysis.py                 # Exploratory analysis scripts
+├── Public Dataset.xlsx         # Excel with URLs to Facebook images used in the experiment, to comply with GDPR, as well as author`s                                         annotation on Real/Fake.
 ```
 
 ---
