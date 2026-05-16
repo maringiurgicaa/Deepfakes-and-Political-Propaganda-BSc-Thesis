@@ -18,7 +18,7 @@ This repository contains the code, prompts, results, and analysis for a BSc thes
 | **Strategies** | S1 Simple · S2 Simple+Context · S3 Chain-of-Thought · S4 Persona · S5 CoT+Persona · S6 Few-shot |
 | **Languages** | English prompts · Romanian prompts (post captions always in Romanian) |
 | **Dataset** | 1,200 Romanian political Facebook images (600 fake / 600 real) |
-| **Best result** | 87.83% accuracy — Qwen 3.5 Vision · Romanian · S1 |
+| **Best result** | 87.83% Macro-F1 — Qwen 3.5 Vision · Romanian · S1 |
 
 ---
 
