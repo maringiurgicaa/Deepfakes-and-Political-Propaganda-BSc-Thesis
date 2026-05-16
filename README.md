@@ -33,17 +33,18 @@ The image dataset cannot be released publicly due to Facebook's Terms of Service
 ## Repository Structure
 
 ```
-├── BSc Project arxiv Version   # The final report 
-├── Metrics.xlsx                # Aggregated metrics across all conditions
-├── plots/                      # Various plots
-├── Prompts_Final.md            # Final prompt text, readable format
-├── Prompts_All_Versions.md     # Full prompt evolution history (v8–v14)
-├── BatchAPI calls.py           # Build and submit batch jobs to model APIs
-├── JsonL_to_Excel.py           # Convert batch output JSONL files to Excel
-├── Clean_Outputs.py            # Parse, normalise, and flag UNPARSED rows
-├── Thesis_Analysis.py          # Analysis and plotting scripts used in the thesis
-├── Analysis.py                 # Exploratory analysis scripts
-├── Public Dataset.xlsx         # Excel with URLs to Facebook images used in the experiment, to comply with GDPR, as well as author`s                                         annotation on Real/Fake.
+├── Qwen/Gemini/GPT - output excels # The resulting excels for each strategy for each model
+├── BSc Project arxiv Version       # The final report 
+├── Metrics.xlsx                    # Aggregated metrics across all conditions
+├── plots/                          # Various plots
+├── Prompts_Final.md                # Final prompt text, readable format
+├── Prompts_All_Versions.md         # Full prompt evolution history (v8–v14)
+├── BatchAPI calls.py               # Build and submit batch jobs to model APIs
+├── JsonL_to_Excel.py               # Convert batch output JSONL files to Excel
+├── Clean_Outputs.py                # Parse, normalise, and flag UNPARSED rows
+├── Thesis_Analysis.py              # Analysis and plotting scripts used in the thesis
+├── Analysis.py                     # Exploratory analysis scripts
+├── Public Dataset.xlsx             # Excel with URLs to Facebook images used in the experiment, to comply with GDPR, as well as author`s  annotation on Real/Fake
 ```
 
 ---
